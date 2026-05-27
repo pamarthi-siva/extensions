@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "dlp@dbasesolutions.in": {
+      "updates": [
+        {
+          "version": "1.0.3",
+          "update_link": "https://raw.githubusercontent.com/pamarthi-siva/extensions/main/DBS-Agent.xpi"
+        }
+      ]
+    }
+  }
+}
