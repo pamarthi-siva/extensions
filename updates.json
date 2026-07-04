@@ -4,6 +4,10 @@
       "updates": [
         {
           "version": "1.0.6",
+          "update_link": "https://raw.githubusercontent.com/pamarthi-siva/extensions/main/DBS-Agent-1.0.7.xpi"
+        },
+        {
+          "version": "1.0.6",
           "update_link": "https://raw.githubusercontent.com/pamarthi-siva/extensions/main/DBS-Agent-1.0.6.xpi"
         },
         {
