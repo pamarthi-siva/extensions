@@ -3,6 +3,10 @@
     "dlp@dbasesolutions.in": {
       "updates": [
         {
+          "version": "1.0.8",
+          "update_link": "https://raw.githubusercontent.com/pamarthi-siva/extensions/main/DBS-Agent-1.0.8.xpi"
+        },
+        {
           "version": "1.0.7",
           "update_link": "https://raw.githubusercontent.com/pamarthi-siva/extensions/main/DBS-Agent-1.0.7.xpi"
         },
